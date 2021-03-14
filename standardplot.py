@@ -8,6 +8,7 @@ x = np.linspace(0, 20, 100) #create a list of evenly space numbers over the rnag
 #y = np.array([sqrt(i) for i in x])
 
 #this is a new comment
+# this is a new comemnt2
 
 
 plt.plot(x, np.sin(x))
